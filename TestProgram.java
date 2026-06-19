@@ -36,7 +36,7 @@ public class TestProgram {
 		
 		System.out.println();
 
-		System.out.println("breath first:");
+		System.out.println("breadth first:");
 		root.showBreadthFirstTraverse();
 		
 	}//end main
