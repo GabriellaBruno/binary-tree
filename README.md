@@ -1,2 +1,2 @@
 # binary-tree
-traverses binary tree in different orders
+Traverses and displays a binary tree in different orders (preorder, postorder, inorder, and breadth first).
